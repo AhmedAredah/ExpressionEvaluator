@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Ahmed/OneDrive - Virginia Tech/01.PhD/02.CourseMaterials/02.Fall2022/02.CS5040_IntermediateDataStructuresAndAlgorithmAnalysis/04.Projects/01.Working/junitTester.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmed/OneDrive - Virginia Tech/01.PhD/02.CourseMaterials/02.Fall2022/02.CS5040_IntermediateDataStructuresAndAlgorithmAnalysis/04.Projects/01.Working/student.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmed/OneDrive - Virginia Tech/01.PhD/02.CourseMaterials/02.Fall2022/02.CS5040_IntermediateDataStructuresAndAlgorithmAnalysis/04.Projects/01.Working/system-rules-1.19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Ahmed/OneDrive - Virginia Tech/01.PhD/02.CourseMaterials/02.Fall2022/02.CS5040_IntermediateDataStructuresAndAlgorithmAnalysis/04.Projects/01.Working/system-rules-1.19.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
